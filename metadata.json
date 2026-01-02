@@ -1,0 +1,5 @@
+{
+  "name": "798 Series Sliding Windows Materials Inventory v2.2",
+  "description": "An application to calculate the required materials for 798 series sliding windows based on width and height. It provides a detailed inventory list including aluminum profiles, glass, and hardware.",
+  "requestFramePermissions": []
+}
